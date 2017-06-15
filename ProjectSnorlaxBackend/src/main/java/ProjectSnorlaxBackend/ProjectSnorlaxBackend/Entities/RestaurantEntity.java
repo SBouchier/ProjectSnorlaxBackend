@@ -1,4 +1,4 @@
-package ProjectSnorlaxBackend.ProjectSnorlaxBackend;
+package ProjectSnorlaxBackend.ProjectSnorlaxBackend.Entities;
 
 import java.sql.Date;
 

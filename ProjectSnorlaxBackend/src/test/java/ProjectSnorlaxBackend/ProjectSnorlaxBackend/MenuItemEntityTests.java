@@ -2,6 +2,8 @@ package ProjectSnorlaxBackend.ProjectSnorlaxBackend;
 
 import java.sql.Date;
 import org.junit.Test;
+
+import ProjectSnorlaxBackend.ProjectSnorlaxBackend.Entities.MenuItemEntity;
 import junit.framework.TestCase;
 
 public class MenuItemEntityTests extends TestCase {

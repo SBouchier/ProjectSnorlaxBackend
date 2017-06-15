@@ -5,6 +5,8 @@ import static org.junit.Assert.*;
 import org.joda.time.DateTime;
 import org.junit.Test;
 
+import ProjectSnorlaxBackend.ProjectSnorlaxBackend.Entities.RestaurantEntity;
+
 public class RestaurantEntityTests {
 	
 	public RestaurantEntity testCreation(){
